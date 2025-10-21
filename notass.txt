@@ -4,4 +4,6 @@ brinquedos
 cordas 
 messas 
 cadeira 
-fitas 
+caneta
+lápis 
+borracha
