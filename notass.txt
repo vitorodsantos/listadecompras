@@ -7,3 +7,7 @@ cadeira
 caneta
 lápis 
 borracha
+fitas 
+roupas 
+sapatos
+
